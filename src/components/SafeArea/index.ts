@@ -1,0 +1,1 @@
+export { default as CustomSafeAreaView } from './CustomSafeArea'
